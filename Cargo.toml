@@ -1,0 +1,9 @@
+[package]
+name = "cpu_temp_reader"
+version = "0.2.0"
+edition = "2021"
+
+[dependencies]
+
+[build-dependencies]
+embed-manifest = "1.5.0"
