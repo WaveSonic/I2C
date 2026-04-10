@@ -4,6 +4,7 @@ mod config;
 mod display;
 mod errors;
 mod logger;
+mod menu;
 mod models;
 mod powershell;
 mod sensor;
